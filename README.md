@@ -53,6 +53,15 @@ A consultation feature that connects banana farmers with agricultural experts to
 - Expert guidance for banana cultivation.
 - Assistance in addressing plant-related issues.
 
+### 🤖 4. AI Chatbot Assistant
+
+An AI-powered chatbot designed to provide interactive assistance and answer banana farmers' questions about agriculture.
+
+- Interactive AI chatbot.
+- Agricultural question and answer.
+- Banana cultivation information.
+- Instant farming assistance.
+  
 ---
 
 ## 🎨 UI/UX Design Showcase
@@ -76,6 +85,9 @@ A consultation feature that connects banana farmers with agricultural experts to
 
 ### 5. Expert Consultation
 <img width="333" height="637" alt="image" src="https://github.com/user-attachments/assets/39374288-7353-47c5-8f4e-31413cf2e3e3" />
+
+### 6. AI Chatbot Assistant
+<img width="342" height="640" alt="image" src="https://github.com/user-attachments/assets/6c5ff986-1385-4744-9491-6243aff25fb6" />
 
 
 ---
