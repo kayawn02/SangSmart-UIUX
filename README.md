@@ -44,43 +44,38 @@ A digital monitoring interface designed to help farmers understand their farmlan
 - Plant condition monitoring.
 - Monitoring dashboard.
 
-### 🤖 3. AI Chatbot Assistant
+### 👨‍🌾 3. Expert Consultation
 
-An AI-powered consultation assistant designed to help banana farmers obtain agricultural information.
+A consultation feature that connects banana farmers with agricultural experts to help them understand and address challenges in banana cultivation.
 
-- Interactive AI chatbot.
-- Banana farming consultation.
-- Plant problem discussions.
-- Agricultural recommendations.
+- Consultation with agricultural experts.
+- Agricultural problem discussions.
+- Expert guidance for banana cultivation.
+- Assistance in addressing plant-related issues.
 
 ---
 
 ## 🎨 UI/UX Design Showcase
 
 ### 1. Splash Screen & Onboarding
-
-<img width="1572" height="3224" alt="Profile" src="https://github.com/user-attachments/assets/860b5e67-49a1-4b39-8de5-52b56218136e" />
+<img width="313" height="631" alt="image" src="https://github.com/user-attachments/assets/55dd2a97-1dee-4dc5-8508-a30eb0ac0bdd" />
 
 
 ### 2. Homepage & Dashboard
-
-<img width="1572" height="6728" alt="Beranda" src="https://github.com/user-attachments/assets/758c8295-370b-4119-8664-9d6c1a02ff8e" />
+<img width="325" height="637" alt="image" src="https://github.com/user-attachments/assets/28ad4d1f-5694-49e9-b62c-c6eeb4a87cdb" />
 
 
 ### 3. Agricultural Education
-
-<img width="1572" height="4536" alt="Pencarian Edukasi Pertanian" src="https://github.com/user-attachments/assets/b0427f4b-eb47-4db8-8136-d9a03cc81295" />
-<img width="1572" height="5508" alt="Pencarian Edukasi Pertanian (1)" src="https://github.com/user-attachments/assets/ac61176c-025f-48b4-9271-b0b5513807b7" />
+<img width="333" height="633" alt="image" src="https://github.com/user-attachments/assets/2f1814fd-de85-4ae6-afbd-6c50f699d373" />
+<img width="322" height="641" alt="image" src="https://github.com/user-attachments/assets/705f2d92-fabd-48df-a87a-608929ccdc5c" />
 
 
 ### 4. Land Monitoring
+<img width="333" height="636" alt="image" src="https://github.com/user-attachments/assets/1f86757a-fa97-493b-bc22-08d23fbd2239" />
 
-<img width="1572" height="7276" alt="body" src="https://github.com/user-attachments/assets/b41fce81-8f66-4969-b875-9425ba943e73" />
 
-
-### 5. AI Chatbot Assistant
-
-<img width="1572" height="3404" alt="Chat Bot" src="https://github.com/user-attachments/assets/1a33f8fc-5fca-4055-8b4b-436dcfa8ef70" />
+### 5. Expert Consultation
+<img width="333" height="637" alt="image" src="https://github.com/user-attachments/assets/39374288-7353-47c5-8f4e-31413cf2e3e3" />
 
 
 ---
